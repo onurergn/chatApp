@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Onur Emre Ergin <onurergin94@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/onurergn/chatApp",
+  "dependencies": {
+    "angular": "^1.8.3"
+  }
+}
